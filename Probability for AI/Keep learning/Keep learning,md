@@ -1,0 +1,130 @@
+## Keep Learning
+
+### More probability
+You know the core ideas now. These take them further, with more depth and more practice.
+
+* [CS109: Probability for Computer Scientists (2022 lectures)](https://youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg) - Course
+
+* [StatQuest with Josh Starmer](https://www.youtube.com/@statquest/videos) - Josh Starmer - Video
+
+* [3Blue1Brown: Probability](https://www.3blue1brown.com/?topic=probability) - Grant Sanderson - Video
+
+* [A First Course in Probability](https://www.pearson.com/en-us/subject-catalog/p/first-course-in-probability-a/P200000006334) - Sheldon Ross - Book - **Paid**
+
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/) - Christopher Bishop - Book
+
+### The math behind machine learning
+Linear algebra, calculus and statistics are what make the models work. 
+
+* [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) -
+Imperial College London, on Coursera **Paid** - Course
+
+* [An Introduction to Statistical Learning](https://www.statlearning.com/) - 
+Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani - Book
+
+* [Why Machines Learn: The Elegant Math Behind Modern AI](https://www.penguinrandomhouse.com/books/677608/why-machines-learn-by-anil-ananthaswamy/) -
+Anil Ananthaswamy **Paid** - Book
+
+### Neural networks and LLMs
+You trained a network of your own. These show how the big ones, and the language models built from them, work inside.
+
+* [3Blue1Brown: Neural networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- Grant Sanderson - Videos
+
+* [How Large Language Models Actually Work](https://www.youtube.com/watch?v=mC76YxBpwAQ)- James Laff, Master.dev - Vidoes
+
+* [Hard Parts of Neural Networks](https://master.dev/courses/hard-parts-ai/) - 
+Will Sentance, Master.dev - Course
+
+* [How LLMs work](https://gemma.ai/learn/how-llms-work/) - 
+Google - Tool
+
+* [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) - Videos
+
+* [Illustrated study guides for Stanford's AI courses](https://stanford.edu/~shervine/teaching/cs-229/) - 
+Shervine and Afshine Amidi - Study Notes
+
+* [Hugging Face LLM Course(opens in a new tab)](https://huggingface.co/learn/llm-course/chapter0/1) -
+Hugging Face - Course
+
+* [Neuroscience-Inspired Artificial Intelligence](https://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3) -
+Demis Hassabis, Dharshan Kumaran, Christopher Summerfield and Matthew Botvinick - Paper
+
+* [After LLMs: Spatial Intelligence and World Models](https://www.youtube.com/watch?v=60iW8FZ7MJU) -
+Fei-Fei Li and Justin Johnson, on the Latent Space podcast - Videos
+
+### Build it yourself
+Courses and tools for training models of your own.
+
+* [DeepLearning.AI short courses(opens in a new tab)](https://www.deeplearning.ai/short-courses/)
+Andrew Ng and DeepLearning.AI - Course
+
+* [Practical Deep Learning for Coders(opens in a new tab)](https://course.fast.ai/)
+fast.ai - Course
+
+* [Google Colab(opens in a new tab)](https://colab.research.google.com/)
+Google - Tool
+
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow(opens in a new tab)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
+Aurélien Géron - Book
+
+* [Kaggle(opens in a new tab)](https://www.kaggle.com/)
+Kaggle - Tool
+
+### Go deeper on Beyond PAI
+The last lesson opened three doors: reinforcement learning, diffusion, and deciding under uncertainty. Here is where to read more.
+
+* [Reinforcement Learning: An Introduction(opens in a new tab)](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+Richard Sutton and Andrew Barto - Book
+
+* [Decision Making Under Uncertainty(opens in a new tab)](https://web.stanford.edu/group/sisl/public/dmu.pdf)
+Mykel Kochenderfer - Book
+
+* [CME296: Diffusion & Large Vision Models(opens in a new tab)](https://www.youtube.com/playlist?list=PLoROMvodv4rNdy8rt2rZ4T2xM0OjADnfu)
+Stanford - Course
+
+### Full university courses, free
+Want the whole course, lectures and all? Some of the world's best universities put theirs online.
+
+* [MIT OpenCourseWare: math and computer science(opens in a new tab)](https://ocw.mit.edu/search/?d=Mathematics&d=Electrical%20Engineering%20and%20Computer%20Science)
+MIT - Course
+
+* [Stanford Online on YouTube(opens in a new tab)](https://www.youtube.com/@stanfordonline/playlists)
+Stanford - Videos
+
+* [Hands-On Deep Learning (MIT, Spring 2024)(opens in a new tab)](https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/)
+Rama Ramakrishnan, MIT Sloan - Course
+
+### Solving real problems with data
+Three steps: define the problem, put numbers on it, and show what you found. There's one book for each.
+
+* [What's Your Problem?(opens in a new tab)](https://store.hbr.org/product/what-s-your-problem-to-solve-your-toughest-problems-change-the-problems-you-solve/10257)
+Thomas Wedell-Wedellsborg - Book - **Paid**
+
+* [From Heatmaps to Histograms(opens in a new tab)](https://heatmapstohistograms.com/)
+Tony Martin-Vegue - Book - **Paid**
+
+* [Edward Tufte's books on showing data(opens in a new tab)](https://www.edwardtufte.com/books/) 
+Edward Tufte - Book - **Paid**
+
+### AI and society
+Safety, policy and governance: how people decide what AI should and should not do.
+
+* [CS 283: Governing Artificial Intelligence(opens in a new tab)](https://cs-ai-governance.github.io/cs-283-website/)
+Stanford - Course
+
+* [Global MOOC on the Ethics of AI(opens in a new tab)](https://www.coursera.org/learn/global-mooc-on-the-ethics-of-ai)
+UNESCO, on Coursera - Course
+
+* [BlueDot Impact's AI safety courses(opens in a new tab)](https://bluedot.org/courses)
+BlueDot Impact - Course
+
+* [ARENA: technical AI safety curriculum(opens in a new tab)](https://www.arena.education/curriculum)
+ARENA - Course
+
+### Made by your section leaders
+Section leaders made these themselves and shared them publicly.
+
+* [Weekly notes and animations for PAI(opens in a new tab)](https://sohaib-hasan.github.io/notes-stanford-pai.html)
+Sohaib H. - Study Notes
+
