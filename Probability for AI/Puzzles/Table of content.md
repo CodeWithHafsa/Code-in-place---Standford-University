@@ -54,6 +54,9 @@
 * Positive, twice
 * The scary gene
 * Three sixes, three fives
+* When it says nine
+* Caught in the net
+* Same accuracy, different mistakes
 
 ### Counting
 * A heart or a king
@@ -114,6 +117,8 @@
 * Ten free throws
 * Which model repeats itself?
 * How perfect is the LLM?
+* Wisdom of three
+* Possible worlds
 
 ### Inclusion exclusion
 * Side effects
@@ -127,6 +132,7 @@
 * Deepfake or real?
 * The poem or nothing
 * Which model repeats itself?
+* What attention passes on
 
 ### Mutually exclusive
 * Cat or dog?
@@ -175,6 +181,8 @@
 * The positive test
 * Which bag?
 * Positive, twice
+* Possible worlds
+* Student v/s AI
 
 ### Mle
 * Through two tiles
@@ -191,6 +199,9 @@
 * Which way is uphill?
 * Overshoot
 * Tilt and turn
+* Surprise times evidence
+* Who moves the weight?
+* One step of learning
 
 ### Probabilistic models
 * The scary gene
@@ -203,12 +214,17 @@
 * Which mistake costs more?
 * The best single guess
 * Score three days
+* A network that knows nothing
 
 ### likelihood
 * How much more likely?
 
 ### Expectation
 * A Tricky Tile
+* What attention passes on
+* How much of the 8 is left?
+* Seventy-percent days
+* When to say “I don’t know”
 
 ### Logistic regression
 * Three labels
@@ -220,17 +236,78 @@
 * Score three days
 * Which model overfits?
 * Score an email
+* A feature that knows
+* Reading the weights
+* Cover the strawberries?
+* On the fence
+* Surprise times evidence
+* Where the line falls
+* Who moves the weight?
+* One step of learning
+* The best a line can do
+* Studying helps?
 
 ### Sigmoid
 * The steepest curve
 * Mirror image
 * After a humid day
+* Softmax for two
 
 ### Classification
 * How many did it get right?
+* When it says nine
+* Caught in the net
+* The lazy fraud detector
+
 
 ### Callibration
 * Where did it overpromise?
+* Seventy-percent days
+* Always thirty percent
 
 ### Overfitting
 * Which model overfits?
+
+### Leak
+* A feature that knows
+
+### Neural Networks
+* Count the parameters
+* The biggest veto
+* Run a tiny network
+* A network that knows nothing
+* One extra feature
+
+### Decisions
+* Cover the strawberries?
+* Possible worlds
+
+### Decision boundary
+* On the fence
+* Where the line falls
+* The best a line can do
+* One extra feature
+
+### Fairness
+* The approval gap
+* Same accuracy, different mistakes
+
+### Softamx
+* What attention passes on
+* Softmax for two
+* Mind the gap
+
+### Ensembles
+* Wisdom of three
+
+### Diffusion
+* How much of the 8 is left?
+
+### Total probability
+* Explore a little
+
+### Reinforcement learning
+* Explore a little
+
+### Alignment
+*  When to say “I don’t know”
